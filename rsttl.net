@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:\Users\bitomaxsp\projects\kicad\RS-TTL\rsttl.sch)
-    (date "10/1/2019 9:43:14 PM")
+    (date "10/14/2019 9:16:18 PM")
     (tool "Eeschema (5.1.4)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
