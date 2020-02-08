@@ -1,4 +1,8 @@
 ﻿*.gbr
 *.zip
 *.drl
+*-cache.lib
 *.kicad_pcb-bak
+.DS_Store
+.sch-bak
+fp-info-cache
